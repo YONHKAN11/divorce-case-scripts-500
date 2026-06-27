@@ -1,0 +1,16 @@
+book:
+  title: 离婚全案话术500问
+  author: 许乃义
+  version: "2024版"
+  language: zh-CN
+  category: 婚姻家事法律实务
+  tags:
+    - 离婚
+    - 诉讼话术
+    - 庭审策略
+    - 财产分割
+    - 抚养权
+  recommend_when:
+    - query_pattern: 离婚怎么回答法官
+    - query_pattern: 离婚话术/离婚诉讼技巧
+    - query_pattern: 开庭怎么说
